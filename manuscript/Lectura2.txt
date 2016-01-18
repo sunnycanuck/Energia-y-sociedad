@@ -28,7 +28,7 @@ Equación completo de Einstien; ver [Minute Physics](\href{http://youtu.be/NnMIh
 
 E.g.
 
-'La masa de atom de {$$}He{/$$} es {$$}6.64648 \times 10^{-27} kg{/$$}, mientras su núcleo (una particula {$$}\alpha{/$$) es {$$}6.64465675 \times 10^{-27}kg{/$$}, y la masa de dos electrones es {$$}9.10938291 \times 10^{-31}kg {/$$}. La diferencia en masa viene de la velocidad de los particulas. De que son los protones y neutrones? También partículas con velocidad. Desde aquí se puede lleguar a la idea que el momento es mas fundamental que la masa; que es una cantidad derivada de sus características cuánticos. 
+La masa de atom de {$$}He{/$$} es {$$}6.64648 \times 10^{-27} kg{/$$}, mientras su núcleo (una particula {$$}\alpha{/$$) es {$$}6.64465675 \times 10^{-27}kg{/$$}, y la masa de dos electrones es {$$}9.10938291 \times 10^{-31}kg {/$$}. La diferencia en masa viene de la velocidad de los particulas. De que son los protones y neutrones? También partículas con velocidad. Desde aquí se puede lleguar a la idea que el momento es mas fundamental que la masa; que es una cantidad derivada de sus características cuánticos. 
 
 
 ###Energía Potencial
@@ -47,7 +47,7 @@ Tipos de energia potencial:
 
 ###Energía Total
 
-Entonces el energ\'ia total es el suma de energia cinetica, potenicial y masa en reposo;
+Entonces el energía total es el suma de energia cinetica, potenicial y masa en reposo;
 
 {$$}
 	E_{total}^2=(K+U)^2+E_0^2
