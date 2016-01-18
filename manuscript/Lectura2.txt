@@ -6,11 +6,9 @@ Rodger Evans}
 
 ###Energia Cinetica
 
-	Normalmente representado con el symbola $K$
+Normalmente representado con el symbola {$$}K{/$$}
 
-{$$}
-	K=\frac{\boldsymbol{\rho}^2}{2m}
-{/$$}
+{$$}K=\frac{\boldsymbol{\rho}^2}{2m}{/$$}
 {$$}\rho{$$} es momento, $m$ es su masa y 
 {$$}\rho=m\nu{/$$}.
 
@@ -20,7 +18,8 @@ Viene del velocidad de particulas en una átom
 
 ###Masa en reposo
 
-	Cuando una masa esta estacionario tiene una energ\'ia encapsulada en su masa 		repesentado con el ecuaci\'on de Einstien $E_0=mc^2$. Pero este ecuaci\'on no esta completo.
+Cuando una masa esta estacionario tiene una energía encapsulada en su masa repesentado con el ecuación de 
+Einstien {$$}E_0=mc^2{/$$}. Pero este ecuación no esta completo.
 
 Equación completo de Einstien; ver [Minute Physics](\href{http://youtu.be/NnMIhxWRGNw})
 {$$}
@@ -34,39 +33,39 @@ E.g.
 
 ###Energía Potencial
 
-	Si una objecto se queda solo, el energ\'ia potencial es una medida de que tano energia cinetica el objecto se puede ganar.
+Si una objecto se queda solo, el energía potencial es una medida de que tano energia cinetica el objecto se puede ganar.
 
 Tipos de energia potencial:
 
-	- quimica
-	- gravitacional
-	- electrica
-	- magnetico
-	- nuclear
-	- elástico
+- quimica
+- gravitacional
+- electrica
+- magnetico
+- nuclear
+- elástico
 
 
-###Energ\'ia Total
+###Energía Total
 
-	Entonces el energ\'ia total es el suma de energia cinetica, potenicial y masa en reposo;
+Entonces el energ\'ia total es el suma de energia cinetica, potenicial y masa en reposo;
 
 {$$}
 	E_{total}^2=(K+U)^2+E_0^2
 {/$$}
 
-Energ\'ia radiante puede ser considerado ser energ\'ia cinetica porque fotones tiene momento $\rho c$. La energia de una foton es $E_foton=\frac {h c}{\lambda}$ y su momento es $\boldsymbol{\rho}=\hbar \boldsymbol{k}$ con una magnitud de $\rho=\frac{h}{c}$.
+Energía radiante puede ser considerado ser energía cinetica porque fotones tiene momento {$$}\rho c{/$$}. La energia de una foton es {$$}E_foton=\frac {h c}{\lambda}{/$$} y su momento es {$$}\boldsymbol{\rho}=\hbar \boldsymbol{k}{/$$} con una magnitud de {$$}\rho=\frac{h}{c}{/$$}.
 
-Energ\'ia solamente puede ser transformado. En el transcurso de tranformaci\'on de energ\'ia podemos aprovechar para hacer trabajo.
+Energía solamente puede ser transformado. En el transcurso de tranformación de energía podemos aprovechar para hacer trabajo.
 
-Que es trabajo? En mi opinion es la creaci\'on de energia potencial y el creacion de entropia negativo.
+Que es trabajo? En mi opinion es la creación de energia potencial y el creacion de entropia negativo.
 
 Que es la fisica que explica estos teoria?
 
 ###Acción Lagrange y Noether
 
-	Que empezo como idea de la hablilidad de hacer trabajo puede ser difinido tambien como el acci\'on de una sistema. La acci\'on de una sistema matematicamente es una funcci\'on que toma su trayectoria como su argumento, y da una numero real como resultado. Su dimension seria $[Energia] \cdot [tiempo]$, en SI $J \cdot s$.
+Que empezo como idea de la hablilidad de hacer trabajo puede ser difinido tambien como el acción de una sistema. La acción de una sistema matematicamente es una funcción que toma su trayectoria como su argumento, y da una numero real como resultado. Su dimension seria $[Energia] \cdot [tiempo]$, en SI $J \cdot s$.
 	
-	Podemos repersentar la acci\'on de una sistema con el integral sobre tiempo de su Lagrangiano;
+Podemos repersentar la acción de una sistema con el integral sobre tiempo de su Lagrangiano;
 	
 {$$}
 	\mathcal {S}=\int_{t_0}^{t1} \mathcal{L} dt
