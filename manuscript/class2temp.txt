@@ -1,0 +1,206 @@
+class2 temp	
+
+#Lectura 2
+
+Rodger Evans}
+
+##Energía
+
+###Energia Cinetica
+
+	Normalmente representado con el symbola $K$
+
+\begin{equation}
+	K=\frac{\boldsymbol{\rho}^2}{2m}
+\end{equation}
+$\boldsymbol{\rho}$ es momento, $m$ es su masa y 
+$\boldsymbol{\rho}=m \boldsymbol \nu$.
+
+Que es masa?
+Viene del velocidad de particulas en una \'atomo.\\
+\\
+
+###Masa en reposo
+
+	Cuando una masa esta estacionario tiene una energ\'ia encapsulada en su masa 		repesentado con el ecuaci\'on de Einstien $E_0=mc^2$. Pero este ecuaci\'on no esta completo.
+
+Equación completo de Einstien; ver [Minute Physics](\href{http://youtu.be/NnMIhxWRGNw})
+{$$}
+	E^2=\left ( m c^2 \right )^2 + \left( p c\right)^2
+{/$$}
+
+E.g.
+
+'La masa de atom de $He$ es $6.64648 \times 10^{-27} kg$, mientras su 		núcleo 	(una particula {$$}\alpha{/$$) es {$$}6.64465675 \times 10^{-27}kg{/$$}, y la masa de dos electrones es 	{$$}9.10938291 \times 10^{-31}kg {/$$}. La diferencia en masa viene de la velocidad de los 	particulas. De que son los protones y neutrones? También part\'iculas con velocidad. 	Desde aquí se puede lleguar a la idea que el momento es mas fundamental que la masa; que 	es una cantidad derivada de sus características cuánticos. 
+
+
+###Energía Potencial
+
+	Si una objecto se queda solo, el energ\'ia potencial es una medida de que tano energia cinetica el objecto se puede ganar.
+
+Tipos de energia potencial:
+
+	- quimica
+	- gravitacional
+	- electrica
+	- magnetico
+	- nuclear
+	- elástico
+
+
+###Energ\'ia Total
+
+	Entonces el energ\'ia total es el suma de energia cinetica, potenicial y masa en reposo;
+
+{$$}
+	E_{total}^2=(K+U)^2+E_0^2
+{/$$}
+
+Energ\'ia radiante puede ser considerado ser energ\'ia cinetica porque fotones tiene momento $\rho c$. La energia de una foton es $E_foton=\frac {h c}{\lambda}$ y su momento es $\boldsymbol{\rho}=\hbar \boldsymbol{k}$ con una magnitud de $\rho=\frac{h}{c}$.
+
+Energ\'ia solamente puede ser transformado. En el transcurso de tranformaci\'on de energ\'ia podemos aprovechar para hacer trabajo.
+
+Que es trabajo? En mi opinion es la creaci\'on de energia potencial y el creacion de entropia negativo.
+
+Que es la fisica que explica estos teoria?
+
+\subsection{Acci\'on Lagrange y Noether}
+
+	Que empezo como idea de la hablilidad de hacer trabajo puede ser difinido tambien como el acci\'on de una sistema. La acci\'on de una sistema matematicamente es una funcci\'on que toma su trayectoria como su argumento, y da una numero real como resultado. Su dimension seria $[Energia] \cdot [tiempo]$, en SI $J \cdot s$.
+	
+	Podemos repersentar la acci\'on de una sistema con el integral sobre tiempo de su Lagrangiano;
+	
+\begin{equation}
+	\mathcal {S}=\int_{t_0}^{t1} \mathcal{L} dt
+\end{equation} 
+
+Donde $\mathcal{L}$ es el Lagrangiano y es el energ\'ia cinetica menos potencial:
+\begin{equation}
+	\mathcal{L}=K-U
+\end{equation}
+	
+
+Cuando la sistema esta a dentro una campo vectorial la evolucion puedo ser piendente en su locaci\'on en lugar de tiempo. En este caso usamos lo codinatos generalizado $\boldsymbol q$;
+\begin{equation}
+		\mathcal{S}=\int_{t0}^{t1} \mathcal{L} [\boldsymbol q (t),\dot {\boldsymbol q }(t), t] dt
+\end{equation}
+
+El principio de Hamilton dice que el evoluci\'on de una sistema $\boldsymbol q_{true}$ es la verdad evoluci\'on (el camion real) si el acci\'on $\mathcal{S}[\boldsymbol{q} (t)]$ es estacionario. Si es estacionario es para decir que se derivada es cero. Este concepo es referido tambi\'en como el \emph{Principio de mínima acción} o \emph{El principio de Hamilton} y su representaci\'on matematico es:
+
+\begin{equation}
+	\frac{\delta \mathcal S }{\delta \boldsymbol q(t)}=0
+\end{equation}
+ 
+ desde aqui una puede mirar los cambios en la acci\'on causado de una pertibaci\'on en la sistema. Con el camino real $\boldsymbol q (t)$ entre dos estados $\boldsymbol q_0=\boldsymbol q(t_0)$ y $\boldsymbol q_1=\boldsymbol q(t_1)$  a dos tiempos $t_1$ y $t_2$, podemos considerar una pertabaci\'on $\epsilon(t)$ que tiene valor de cero en los dos putos a $t_1$ y $t_2$;
+ 
+\begin{equation}
+ \delta \mathcal{S}=
+ \int_{t_0}^{t_1} \left [  
+ 	\mathcal{L} \left ( 
+ 		\boldsymbol{q}+\epsilon , \dot{\boldsymbol{q}} + \dot{\epsilon} 
+ 	\right ) -  \mathcal{L} \left ( 
+ 		\boldsymbol{ q}, \dot{\boldsymbol{q}} 
+ 	\right )  
+ \right ]dt=
+ \int_{t_0}^{t_1} \left ( 
+ 	\epsilon \cdot \frac { \partial   \mathcal{L}} {\partial \boldsymbol{q} }+ \dot{\epsilon}\cdot \frac {\partial  \mathcal{L} } {\partial \dot{\boldsymbol{q}}} \right )dt
+\end{equation}
+
+Donde el Lagrangiano fue expandido hasta el primer orden en $\epsilon (t)$. %don't follow the expansion.
+Aplicando integraci\'on de partes tenemos 
+\begin{equation}
+	\delta  \mathcal{S}= \left [ 
+		\epsilon \cdot \frac {\partial  \mathcal{L}} {\partial \dot{\boldsymbol{q}}} \right ]_{t_0}^{t_1} +
+		\int_{t_0}^{t_1} \left ( \epsilon \cdot \frac {\partial  \mathcal{L}} {\partial \boldsymbol{q}}-\epsilon \cdot \frac {d} {dt} \frac {\partial  \mathcal{L}} {\partial \dot{\boldsymbol{q}}} \right ) dt
+\end{equation}
+ 
+ Los condiciones de frontera estaban definidos como $\epsilon(t_0)=epsilon(t_1)=0$, que hace que el primera termino es cero, que deja:
+ 
+\begin{equation}
+	\delta  \mathcal{S}=\int_{t_0}^{t_1} \epsilon \cdot 
+	\left (  
+		\frac {\partial  \mathcal{L}} {\partial \boldsymbol{q}}- \frac {d} {dt} \frac {\partial  \mathcal{L}} {\partial \dot{\boldsymbol{q}}}
+	\right ) dt
+\end{equation}
+
+Este nos da el ecuacion de \emph{Euler-Lagrange} que es el termino en el integer. Si este termino es cero $ \mathcal{S}$ es estacionario. Entonces el sistema es estacionario si y unciamente si;
+
+\begin{equation}
+	\frac {\partial  \mathcal{L}} {\partial \boldsymbol{q}}- \frac {d} {dt} \frac {\partial  \mathcal{L}} {\partial \dot{\boldsymbol{q}}}=0
+\end{equation}
+
+\subsection{Pares conjugados}
+Los derivadas de acci\'on son los variables conjugados. Tambi\'en son relacionedos a la \emph{Relación de indeterminación de Heisenberg}, y son:
+\begin{enumerate}
+	\item energ\'ia es el negativa de la derivada de la acci\'on en su camino con respocto a tiempo.
+	\item Momento lineal ($\rho$) es la derivada de su acci\'on con respecto a su posici\'on.
+	\item Momento angular  es la dervada de su acci\'on con respocto a su angulosa
+	\item Potencial electrico (V) es el negativo de la derevada de la compo electromagnitico con respocto a la densidad de cargas electrica libres
+	\item Potencial magnetico (A) es el derivada de la acci\'on del campo electromagnetico a la densidad de corrienete electrico libre
+	\item El campo electrico (E) es el derivadad de la acci\'on de la campo electromagnetico con respocto a la densidad de polarización eléctrica.
+	\item El inductancia magnetico (B) es el derivada de la acci\'on de la campo electromagnetico con respecto de la magnetizaci\'on a la evento.
+	\item El potencial gravitacional a una evento es el acci\'on de la campo gavitacional con respocto a la densidad de masa en la evento.
+\end{enumerate}
+
+
+\subsection{Unidades tipicos de energ\'ia}
+
+En uso normal los unidades viene prinicpalmenet de los valores a mano. Para los cientificos, expecialmente los estudiantes, estos seria de la sistema internacionas (SI). Los electrico concen electrodomesticos que estan en Watts, y saben sobre usos en terminos de horas, que es el razon porque usan el kilowatt hora ($kWh$). Sigue los valores tipicos y su conversion a SI.
+
+\begin{enumerate}
+	\item $1J=1N\cdot M=1 kg (m/s)^2$
+	\item $1eV=1.60217653 \times 10^(-19)J $
+	\item $1 ton TNT=4.2 \times 10^9 J$
+	\item $1 BTU=1 \times 10^3 J$
+	\item $1 cal=4J$
+	\item $1 kWh=3.6 \times 10^6 J$
+\end{enumerate}
+
+Trabajo es el energia por unidad tiempo, o furza sobre una displacemiento;
+\begin{equation}
+	\boldsymbol{P}=\int_{x_0}{x_1} \boldsymbol{F} \cdot d\boldsymbol{x}
+\end{equation}
+
+\begin{equation}
+	\boldsymbol{P(t)}=\frac {d E(t)} {d t}
+\end{equation}
+ Los unidades de trabajo son, 
+ 
+ \begin{enumerate}
+ 	\item $1W=1J/s$
+ 	\item $1BTU/s=1 \times 10^3 W$
+ 	\item $1 hp=740W$
+ 	\item una persona trabajando fuerte $0.6 kW$
+ 	\item 1 ton de AC $=3.5 kW$
+ 	\item Auto ford formula 1 $800 hp$
+ 	\item Bocho $54 hp$
+ \end{enumerate}
+% from http://en.wikipedia.org/wiki/Hamilton%27s_principle
+
+
+\subsection{Orden de magnitude de energ\'ia en socidad}
+
+Es util para ver los numero tipos de consumo energetico para enteder en que madnitude estan nuestras consumos.
+
+\begin{enumerate}
+	\item consumo anual (2000) de EE.UU.: $10^{20} J/$a\~no 
+	\item consumo anual por capita : $10^{12}$
+	\item consumo anual en dieta humano: $4 \times 10^9 J/$a\~no
+	\item Consumo global de energ\'ia: $4\times 10^{20}J/$a\~no
+	\item Reservas combustible f\`osil: $10^{23}J$
+	\item Energ\`ia Solar anual en superficio de EE.UU.: $10^{23} J/$a\~no 
+	\item Energ\`ia solar en Ensenada: $1.47 \times 10^7 \frac {J} {m^2 dia}$
+	\item gasolina $32 \times 10^6 J/L$  
+\end{enumerate}
+
+\subsection{Referencias}\
+
+\cite{planeEnglish}
+
+%\\
+%\cite{Lemenand10}
+
+%\bibliographystyle{plain}
+%\bibliography{SustainableBibTeX}
+
+\end{document}
