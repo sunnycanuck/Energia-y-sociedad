@@ -1,1 +1,2 @@
-Lectura1.txt Lectura2.txt
+Lectura1.txt
+Lectura2.txt
