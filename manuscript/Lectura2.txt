@@ -10,7 +10,7 @@ Normalmente representado con el symbola {$$}K{/$$}
 
 {$$}K=\frac{\boldsymbol{\rho}^2}{2m}{/$$}
 {$$}\rho{/$$} es momento, {$$}m{/$$} es su masa y 
-{$$}\mathbf{\mathrm{p}}=m\nu{/$$}.
+{$$}\mathbf{p}=m\nu{/$$}.
 
 Que es masa?
 Viene del velocidad de particulas en una átom
