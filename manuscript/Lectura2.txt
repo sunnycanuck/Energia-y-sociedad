@@ -23,7 +23,7 @@ Einstien {$$}E_0=mc^2{/$$}. Pero este ecuación no esta completo.
 
 Equación completo de Einstien; ver [Minute Physics](http://youtu.be/NnMIhxWRGNw)
 {$$}
-	E^2=\left ( m c^2 \right )^2 + \left( p c\right)^2
+	E^2=\left ( m c^{2} \right )^{2} + \left( p c\right)^{2}
 {/$$}
 
 E.g.
