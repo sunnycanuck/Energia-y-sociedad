@@ -75,8 +75,6 @@ Donde {$$}\mathcal{L}{/$$} es el Lagrangiano y es el energía cinetica menos pot
 {$$}
 	\mathcal{L}=K-U
 {/$$}
-	
-[//]: # (fix below)
 
 Cuando la sistema esta a dentro una campo vectorial la evolucion puedo ser piendente en su locación en lugar de tiempo. En este caso usamos lo codinatos generalizado {$$}\mathbf{q}{/$$};
 {$$}
