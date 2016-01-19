@@ -1,22 +1,22 @@
-#Lectura 2
+#Lectura 2–Energía
 
 Rodger Evans}
 
-##Energía
 
-###Energia Cinetica
+
+##Energia Cinetica
 
 Normalmente representado con el symbola {$$}K{/$$}
 
 {$$}K=\frac{\boldsymbol{\rho}^2}{2m}{/$$}
-{$$}\rho{$$} es momento, $m$ es su masa y 
-{$$}\rho=m\nu{/$$}.
+{$$}\rho{/$$} es momento, {$$}m{/$$} es su masa y 
+{$$}\mathbf{\mathrm{p}}=m\nu{/$$}.
 
 Que es masa?
 Viene del velocidad de particulas en una átom
 
 
-###Masa en reposo
+##Masa en reposo
 
 Cuando una masa esta estacionario tiene una energía encapsulada en su masa repesentado con el ecuación de 
 Einstien {$$}E_0=mc^2{/$$}. Pero este ecuación no esta completo.
@@ -31,7 +31,7 @@ E.g.
 La masa de atom de {$$}He{/$$} es {$$}6.64648 \times 10^{-27} kg{/$$}, mientras su núcleo (una particula {$$}\alpha{/$$} es {$$}6.64465675 \times 10^{-27}kg{/$$}, y la masa de dos electrones es {$$}9.10938291 \times 10^{-31}kg {/$$}. La diferencia en masa viene de la velocidad de los particulas. De que son los protones y neutrones? También partículas con velocidad. Desde aquí se puede lleguar a la idea que el momento es mas fundamental que la masa; que es una cantidad derivada de sus características cuánticos. 
 
 
-###Energía Potencial
+##Energía Potencial
 
 Si una objecto se queda solo, el energía potencial es una medida de que tano energia cinetica el objecto se puede ganar.
 
@@ -45,7 +45,7 @@ Tipos de energia potencial:
 - elástico
 
 
-###Energía Total
+##Energía Total
 
 Entonces el energía total es el suma de energia cinetica, potenicial y masa en reposo;
 
@@ -61,7 +61,7 @@ Que es trabajo? En mi opinion es la creación de energia potencial y el creacion
 
 Que es la fisica que explica estos teoria?
 
-###Acción Lagrange y Noether
+##Acción Lagrange y Noether
 
 Que empezo como idea de la hablilidad de hacer trabajo puede ser difinido tambien como el acción de una sistema. La acción de una sistema matematicamente es una funcción que toma su trayectoria como su argumento, y da una numero real como resultado. Su dimension seria $[Energia] \cdot [tiempo]$, en SI $J \cdot s$.
 	
