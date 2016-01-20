@@ -49,9 +49,7 @@ Tipos de energia potencial:
 
 Entonces el energía total es el suma de energia cinetica, potenicial y masa en reposo;
 
-{$$}
-	E_{total}^2=(K+U)^2+E_0^2
-{/$$}
+{$$}E_{total}^2=(K+U)^2+E_0^2{/$$}
 
 Energía radiante puede ser considerado ser energía cinetica porque fotones tiene momento {$$}\rho c{/$$}. La energia de una foton es {$$}E_foton=\frac {h c}{\lambda}{/$$} y su momento es {$$}\mathbf{p}=\hbar \mathbf{k}{/$$} con una magnitud de {$$}p=\frac{h}{c}{/$$}.
 
