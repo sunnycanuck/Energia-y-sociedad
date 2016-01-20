@@ -1,9 +1,18 @@
 #Lectura 3; Unidades y orden de magnitude
 
-##Unidades tipicos de energía
+##Unidades típicos de energía
 
 ##Orden de magnitude de energía en sociedad
 
 ##Cantidades, unidades y símbolos
 
- 
+##Unidades básicas del Sistema Internacional
+
+Hay siete unidades básicas de donde todos los otras unidades solamente non derivaba. Cada unidad tienes su propio dimension.
+
+##Pratica
+
+1. Busca valores actulizado del consumo nacional energía para production electrico, de combustibles, nucleares, y fuentes renovables.
+
+2. En un cuartilla y con entre una a tres plots de [Gapminder](http://www.gapminder.org/world) explica algo interesante.
+

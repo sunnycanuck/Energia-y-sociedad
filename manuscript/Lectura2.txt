@@ -76,3 +76,9 @@ Donde {$$}\mathcal{L}{/$$} es el Lagrangiano y es el energía cinetica menos pot
 	\mathcal{L}=K-U
 {/$$}
 
+##Pratica
+
+1. Escribe dos parafo con un resumen sobre energía y masa observable y oscura
+
+2. Escribir un ejmplo del uso de Lagrangiano explicando el energía en una sistema fisica. 
+ 
