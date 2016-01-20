@@ -1,2 +1,3 @@
 Lectura1.txt
 Lectura2.txt
+Lectura3.txt
