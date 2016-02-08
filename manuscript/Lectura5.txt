@@ -1,0 +1,13 @@
+#Lectura 5: Unidades y termodinamica
+
+##Ley zero de termodinamica
+
+##Energía intrena
+
+##Isotermico y adiabatico expansión
+
+##Capacidad calorifica
+
+##Enthalpia
+
+##Relación entre {$$}C_v y C_p{/$$}

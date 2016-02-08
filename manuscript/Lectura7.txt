@@ -1,0 +1,8 @@
+#Lectura 6: Introducción a motores térmicos
+
+##Declaración de Kelvin de la segunda ley de termodinamica
+
+##Motores de calor
+
+##Eficiencia de motor térmico
+

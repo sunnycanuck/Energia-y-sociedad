@@ -1,0 +1,18 @@
+#Lectura 6: Introducción a termodinamica
+
+##Ley de Fourier y conducción termico
+
+##Convección
+
+##Radiación
+
+##Conducción termico de sólidos, líquidos y los gases
+
+##Densidad
+
+##Calor especifico
+
+##La difusividad térmica
+
+##Viscosidad
+

@@ -1,0 +1,17 @@
+#Lectura 9: Distribución de energía
+
+##Formas de transmitir potencia
+
+###Mecanico
+
+###Hidráulico y neumático
+
+###Productos químicos y combustibles 
+
+##Transmission de potencia electrico
+
+###Corriente directo
+
+###Corriente alterna
+
+###Trifásica y split-phase

@@ -1,4 +1,10 @@
 Lectura1.txt
 Lectura2.txt
 Lectura3.txt
+Lectura4.txt
+Lectura5.txt
+Lectura6.txt
+Lectura7.txt
+Lectura8.txt
+Lectura9.txt
 cheatsheet.txt

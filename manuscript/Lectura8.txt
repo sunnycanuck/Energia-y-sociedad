@@ -1,0 +1,15 @@
+#Lectura 7: Ejemplos de motores térmicos
+
+##Ciclo de Carnot
+
+##Motor Novikov
+
+##Ciclo Rankin
+
+##Ciclo Otto
+
+##Ciclo Ericsson cycle
+
+##Ciclo Brayton
+
+##Pratica

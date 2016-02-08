@@ -1,0 +1,33 @@
+#Lectura 4: Sociedad–orden de magnitud
+
+##Orden de magnitude de energía en sociedad
+Es importante saber cómo experimentamos eventos. 
+Por ejemplo sentimos no temperatura, sentimos flujo de calor. En este ejemplo a poner una mano fría en agua cálido siente igual que una mano caliente en agua fría. 
+Nuestros sentidos pueden manejar uno o dos órdenes de magnitud. 
+Revisamos valores de uso de energía por nuestra sociedad, tenemos que generar experiencias sobre valores convencionalmente seis ordenes de magnitud y hasta treinta.
+
+1. consuma anual (2000) EE.UU.| {$$} 10^{29}J/{año}{/$$}
+2. consumo anual por capita : {$$} 10^{12}{/$$}
+3. consumo anual en dieta humano: {$$} 4 \times 10^9 J/{/$$}año
+4. Consumo global de energía: {$$}4\times 10^{20}J/{/$$}año
+5. Reservas combustible fósil: {$$} 10^{23}J{/$$}
+6. Energía Solar anual en superficio de EE.UU.: {$$} 10^{23} J/{/$$}año 
+7. Energía solar en Ensenada: {$$}1.47 \times 10^7 \frac {J} {m^2 dia} {/$$}
+8. gasolina {$$} 32 \times 10^6 J/L{/$$}  
+
+##Cantidades, unidades y símbolos
+Estos notas viene del libro [IUPAC Quantities and symbols](http://www.iupac.org/home/publications/e-resources/nomenclature-and-terminology/quantities-units-and-symbols-in-physical-chemistry-green-book.html).
+El asunto principal es cuidar como escribimos cantidades para que no confundimos unidades, variables, cantidades y símbolos. 
+
+Una cantidad fisica seria representado como:
+{$$} Q={Q}[Q]{/$$}
+donde {$$} {Q}{/$$} es el valor numerico, y {$$} [Q]{/$$} es el unidad.
+Este representación obedezca las reglas algebraica como:
+- {$$} \lambda=5.896\times 10^{-7}m=589.6nm{/$$} para {$$} 1nm=10^{-9}m{/$$}
+- o que {$$} \frac{\lambda}{m}=5.896 \times 10^{-7}{/$$}
+- y {$$} \frac{\lambda}{nm}=5.896{/$$} 
+##Unidades básicas del Sistema Internacional
+
+Hay siete unidades básicas de donde todos los otras unidades solamente non derivaba. Cada unidad tienes su propio dimension.
+
+##Pratica
