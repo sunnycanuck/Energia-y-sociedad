@@ -12,7 +12,7 @@
 ##Enthalpia
 
 ##Relación entre {$$}C_v y C_p{/$$}
-=======
+
 #Lectura 5: Termodinámica definiciones 
 
 Presentado 27-enero-2016
@@ -23,4 +23,3 @@ Presentado 27-enero-2016
 
 #Expansion/compresión Adiabatica 
 
->>>>>>> FETCH_HEAD
