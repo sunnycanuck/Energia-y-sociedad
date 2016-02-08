@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #Lectura 5: Unidades y termodinamica
 
 ##Ley zero de termodinamica
@@ -11,3 +12,15 @@
 ##Enthalpia
 
 ##Relación entre {$$}C_v y C_p{/$$}
+=======
+#Lectura 5: Termodinámica definiciones 
+
+Presentado 27-enero-2016
+
+#presentacion de sistema termodinámica 
+
+#Expansion/compresión Isotérmico
+
+#Expansion/compresión Adiabatica 
+
+>>>>>>> FETCH_HEAD

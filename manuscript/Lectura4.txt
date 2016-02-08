@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #Lectura 4: Sociedad–orden de magnitud
 
 ##Orden de magnitude de energía en sociedad
@@ -29,5 +30,16 @@ Este representación obedezca las reglas algebraica como:
 ##Unidades básicas del Sistema Internacional
 
 Hay siete unidades básicas de donde todos los otras unidades solamente non derivaba. Cada unidad tienes su propio dimension.
+=======
+#Lectura 4: Termodinámica 
+
+##IUPAC; productos y cocientes
+
+##Fonts
+
+#Unidades básica de sistema Internacional S.I.
+
+##Propidades intensivos y extensivos
+>>>>>>> FETCH_HEAD
 
 ##Pratica
