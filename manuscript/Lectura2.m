@@ -1,0 +1,82 @@
+#Lectura 2–Energía
+
+Rodger Evans}
+
+
+
+##Energia Cinetica
+
+Normalmente representado con el symbola {$$}K{/$$}
+
+{$$}K=\frac{\mathbf{\rho}^2}{2m}{/$$}
+{$$}\rho{/$$} es momento, {$$}m{/$$} es su masa y 
+{$$}\mathbf{p}=m\mathbf{\nu}{/$$}.
+
+Que es masa?
+Viene del velocidad de particulas en una átom
+
+
+##Masa en reposo
+
+Cuando una masa esta estacionario tiene una energía encapsulada en su masa repesentado con el ecuación de 
+Einstien {$$}E_0=mc^2{/$$}. Pero este ecuación no esta completo.
+
+Equación completo de Einstien; ver [Minute Physics](http://youtu.be/NnMIhxWRGNw)
+{$$}
+	E^{2}=\left ( m c^{2} \right )^{2} + \left( p c\right)^{2}
+{/$$}
+
+E.g.
+
+La masa de atom de {$$}He{/$$} es {$$}6.64648 \times 10^{-27} kg{/$$}, mientras su núcleo (una particula {$$}\alpha{/$$} es {$$}6.64465675 \times 10^{-27}kg{/$$}, y la masa de dos electrones es {$$}9.10938291 \times 10^{-31}kg {/$$}. La diferencia en masa viene de la velocidad de los particulas. De que son los protones y neutrones? También partículas con velocidad. Desde aquí se puede lleguar a la idea que el momento es mas fundamental que la masa; que es una cantidad derivada de sus características cuánticos. 
+
+
+##Energía Potencial
+
+Si una objecto se queda solo, el energía potencial es una medida de que tano energia cinetica el objecto se puede ganar.
+
+Tipos de energia potencial:
+
+- quimica
+- gravitacional
+- electrica
+- magnetico
+- nuclear
+- elástico
+
+
+##Energía Total
+
+Entonces el energía total es el suma de energia cinetica, potenicial y masa en reposo;
+
+{$$}E_{total}^2=(K+U)^2+E_0^2{/$$}
+
+Energía radiante puede ser considerado ser energía cinetica porque fotones tiene momento {$$}\rho c{/$$}. La energia de una foton es {$$}E_foton=\frac {h c}{\lambda}{/$$} y su momento es {$$}\mathbf{p}=\hbar \mathbf{k}{/$$} con una magnitud de {$$}p=\frac{h}{c}{/$$}.
+
+Energía solamente puede ser transformado. En el transcurso de tranformación de energía podemos aprovechar para hacer trabajo.
+
+Que es trabajo? En mi opinion es la creación de energia potencial y el creacion de entropia negativo.
+
+Que es la fisica que explica estos teoria?
+
+##Acción Lagrange y Noether
+
+Que empezo como idea de la hablilidad de hacer trabajo puede ser difinido tambien como el acción de una sistema. La acción de una sistema matematicamente es una funcción que toma su trayectoria como su argumento, y da una numero real como resultado. Su dimension seria $[Energia] \cdot [tiempo]$, en SI $J \cdot s$.
+	
+Podemos repersentar la acción de una sistema con el integral sobre tiempo de su Lagrangiano;
+	
+{$$}
+	\mathcal {S}=\int_{t_0}^{t1} \mathcal{L} dt
+{/$$}
+
+Donde {$$}\mathcal{L}{/$$} es el Lagrangiano y es el energía cinetica menos potencial:
+{$$}
+	\mathcal{L}=K-U
+{/$$}
+
+##Pratica
+
+1. Escribe dos parafo con un resumen sobre energía y masa observable y oscura
+
+2. Escribir un ejmplo del uso de Lagrangiano explicando el energía en una sistema fisica. 
+ 

@@ -7,4 +7,7 @@ Lectura6.txt
 Lectura7.txt
 Lectura8.txt
 Lectura9.txt
+Lectura10.txt
+Lectura11.txt
+Lectura12.txt
 cheatsheet.txt

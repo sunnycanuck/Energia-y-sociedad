@@ -1,17 +1,32 @@
-#Lectura 9: Distribución de energía
+#Lectura 9: Energía classica, neoclassica y siglo viente
 
-##Formas de transmitir potencia
+##Energía; pares conjugados
 
-###Mecanico
 
-###Hidráulico y neumático
+##Energía de civilización classica; (Griego, Romana, Persia, China)
 
-###Productos químicos y combustibles 
+###Comida y animales
 
-##Transmission de potencia electrico
+###Biocombustibles
 
-###Corriente directo
+##Energía neoclassica; Bach a Tchaikovsky
 
-###Corriente alterna
+##Energía siglo viente
 
-###Trifásica y split-phase
+From [wikipedia](https://en.wikipedia.org/wiki/20th_century)
+
+ "World War I and World War II, nationalism and decolonization, the Cold War and Post-Cold War conflicts, cultural homogenization through developments in transportation and communications technology, world population growth, awareness of environmental degradation, ecological extinction[4][5] and the birth of the Digital Revolution. It saw great advances in communication and medical technology that by the late 1980s allowed for near-instantaneous worldwide computer communication and genetic modification of life."
+
+###Carbon mineral
+
+###Petróleo
+
+###Gas natural; "Fracking Todo"
+
+##Energía y agua
+
+##Pratica
+
+En un arbor, de donde viene su masa? 
+
+
