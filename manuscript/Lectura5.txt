@@ -17,9 +17,9 @@
 
 Presentado 27-enero-2016
 
-#presentacion de sistema termodinámica 
+##presentacion de sistema termodinámica 
 
-#Expansion/compresión Isotérmico
+##Expansion/compresión Isotérmico
 
-#Expansion/compresión Adiabatica 
+##Expansion/compresión Adiabatica 
 

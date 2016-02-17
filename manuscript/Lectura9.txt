@@ -1,7 +1,6 @@
 #Lectura 9: Energía classica, neoclassica y siglo viente
 
-##Energía; pares conjugados
-
+##Precivilización humano
 
 ##Energía de civilización classica; (Griego, Romana, Persia, China)
 
@@ -9,19 +8,72 @@
 
 ###Biocombustibles
 
-##Energía neoclassica; Bach a Tchaikovsky
+##usos Madera en emporio Romana
 
-##Energía siglo viente
+###Termico
+
+###Construcción
+
+###Agricultura
+
+Una nota final sobre el Roma;
+
+"The spread of the degradation of the soil was centrifugal from Latium itself outwards. Varro noted abandoned fields in Latium, and two centuries later Columella, about A.D. 60, referred to all Latium as a country where the people would have died of starvation, but for their share of Rome's imported corn. The Roman armies moved outwards from Latium demanding land; victory gave more land to the farmers; excessive demands again brought exhaustion of fertility; again the armies moved outwards.
+'Province after province was turned by Rome into a desert,' wrote Simkhovitch, 'for Rome's exactions naturally compelled greater exploitation of the conquered soil and its more rapid exhaustion. Province after province was conquered by Rome to feed the growing proletariat with its corn and to enrich the prosperous with its loot. The devastation of war abroad and at home helped the process along. The only exception to the rule of spoliation and exhaustion was Egypt, because of the overflow of the Nile. For this reason Egypt played a unique role in the empire. It was the emperor's personal possession, and neither senators nor knights could visit it without special permission, for even a small force, as Tacitus stated, might "block up the plentiful corn country and reduce all Italy to submission".'
+Latium, Campania, Sardinia, Sicily, Spain, Northern Africa, as Roman granaries, were successively reduced to exhaustion. Abandoned land in Latium and Campania turned into swamps, in Northern Africa into desert. The forest-clad hills were denuded. 'The decline of the Roman Empire is a story of deforestation, soil exhaustion and erosion,' wrote Mr. G. V. Jacks in The Rape of the Earth. 'From Spain to Palestine there are no forests left on the Mediterranean littoral, the region is pronouncedly arid instead of having the mild humid character of forest-clad land, and most of its former bounteously rich top-soil is lying at the bottom of the sea.'
+— G. T. Wrench, Reconstruction by Way of the Soil"
+
+##Energía neoclassica; El revolución industrial
+
+##Holandés y su Edad de Oro
+
+##Energía Siglo XX
 
 From [wikipedia](https://en.wikipedia.org/wiki/20th_century)
 
- "World War I and World War II, nationalism and decolonization, the Cold War and Post-Cold War conflicts, cultural homogenization through developments in transportation and communications technology, world population growth, awareness of environmental degradation, ecological extinction[4][5] and the birth of the Digital Revolution. It saw great advances in communication and medical technology that by the late 1980s allowed for near-instantaneous worldwide computer communication and genetic modification of life."
+El siglo XX fue notado por: "World War I and World War II, nationalism and decolonization, the Cold War and Post-Cold War conflicts, cultural homogenization through developments in transportation and communications technology, world population growth, awareness of environmental degradation, ecological extinction[4][5] and the birth of the Digital Revolution. It saw great advances in communication and medical technology that by the late 1980s allowed for near-instantaneous worldwide computer communication and genetic modification of life."
 
+Currently energy use is doubling every 14 years
+
+##Fossil fules; (wikipedia)[https://en.wikipedia.org/wiki/Fossil_fuel]
+	
+millions (up to 650 million years old)	
+	
+Levels (proved reserves) during 2005–2006
+
+Coal: 997,748 million short tonnes (905 billion metric tonnes),[17] 4,416 billion barrels (702.1 km3) of oil equivalent
+Oil: 1,119 billion barrels (177.9 km3) to 1,317 billion barrels (209.4 km3)[18]
+Natural gas: 6,183–6,381 trillion cubic feet (175–181 trillion cubic metres),[18] 1,161 billion barrels (184.6×109 m3) of oil equivalent
+
+
+Flows (daily production) during 2006
+
+Coal: 18,476,127 short tonnes (16,761,260 metric tonnes),[19] 52,000,000 barrels (8,300,000 m3) of oil equivalent per day
+Oil: 84,000,000 barrels per day (13,400,000 m3/d)[20]
+Natural gas: 104,435 billion cubic feet (2,963 billion cubic metres),[21] 19,000,000 barrels (3,000,000 m3) of oil equivalent per day
+	
 ###Carbon mineral
+
+Formed when dead terrestrial plant matter is converted into peat, which in turn is converted into lignite, then sub-bituminous coal, after that bituminous coal, and lastly anthracite. (wikipedia)[https://en.wikipedia.org/wiki/Coal]
+
+Since 1983 the world top coal producer has been China.[11] In 2011 China produced 3,520 million tonnes of coal – 49.5% of 7,695 million tonnes world coal production. In 2011 other large producers were United States (993 million tonnes), India (589), European Union (576) and Australia (416).[11] In 2010 the largest exporters were Australia with 328 million tonnes (27.1% of world coal export) and Indonesia with 316 million tonnes (26.1%),[12] while the largest importers were Japan with 207 million tonnes (17.5% of world coal import), China with 195 million tonnes (16.6%) and South Korea with 126 million tonnes (10.7%).[13]
+
+The earliest recognized use is from the Shenyang area of China 4000 BC where Neolithic inhabitants had begun carving ornaments from black lignite.[24] Coal from the Fushun mine in northeastern China was used to smelt copper as early as 1000 BCE.[25] Marco Polo, the Italian who traveled to China in the 13th century, described coal as "black stones ... which burn like logs", and said coal was so plentiful, people could take three hot baths a week.[26] In Europe, the earliest reference to the use of coal as fuel is from the geological treatise On stones (Lap. 16) by the Greek scientist Theophrastus (circa 371–287 BC):[27][28]
+
+At least 40% of the world's electricity comes from coal,[46][54] and in 2012, about one-third of the United States' electricity came from coal, down from approximately 49% in 2008.[55][56] 
+
+Coke coal: over 1000 C furnace, free of Oxygen. Used to make steel in a  (blast furnace)[https://en.wikipedia.org/wiki/Blast_furnace]
+
+Syngas; coal with water and oxygen to form CO and H2. This can also make gasoline. 
 
 ###Petróleo
 
+Formed by dead aquatic plant matter
+Yellow to black liquid found under ground trapped in rock layers
+
 ###Gas natural; "Fracking Todo"
+
+
 
 ##Energía y agua
 
