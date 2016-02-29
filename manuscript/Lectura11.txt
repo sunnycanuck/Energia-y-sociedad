@@ -2,9 +2,23 @@
 
 ##Formas de transmitir potencia
 
+Es comon que los recursos de potencia estan lejos de sus usos y el hablidad a transmitir la potencia se incrementa su valor. 
+
+Usos de potencia incluye el undustria, con tornos, fresadoras, taladros, cortadoras, maquinas de coser, telares de potencia, molinas, transportacion etc...
+
+Cuando el uso de potencia es movil una almacen de potencia esta necesario.
+
 ###Mecanico
 
+Hasta el principio de siglo XX potencia estaba transmitido via formas mecanicos. Formas de transmission mecancio incluye cadenas, eje de transmisión y varillas de empuje. Estos sistemas permiterion que una generador de potencia central puede activar various maquinas. El vista clasica del revolucion industrial estaba eje's de transmission en los techos de una fabrica con bandas bajando y conectando con el maquina abajo. 
+
+En actualidad sistemas de transmission mecanica se encuentra sobre distancias cortos de metros en maquinas como automoblies donde se encuentra los mecanismos como valuvlas y sintas del timempo controla los flujos a dentro del motor. Tambien los sistemas roboticas usan una combinacion de mecanica, hidralica y/o eletrico para sus movementos. Los partes mecanicas estan utilis para conversion a moviemento rotacional a lineal, y por cambios de par y esfuerzas. 
+
+Ejemplos seria los Husillos, transmissiones mecanicas, tornillos sin fin y Husillo de bolas.
+
 ###Hidráulico y neumático
+
+Sistemas hidraulicas 
 
 ###Productos químicos y combustibles 
 
