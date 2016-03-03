@@ -1,7 +1,26 @@
 #Lectura 12: Consumo energia actual
 
+El laboratorio nacional de Lawrence Livermore en EEUU tiene analysis sobre los consumos y fuentes de energia que se puede encontrar es su [pagina del web](https://flowcharts.llnl.gov).
+
+El resultado que una puede ver son los diferencias en consumos de domestico, industria y comercial, que los usos domesticos estan en la minoridad, y que cuando vemos de todo de america notre los diferencias de importación y exportacion de EEUU contra Canada y Mexico. 
+
+Sobre producción de dioxido de carbon. Los medidas del gas de dioxido de carbon y tambien metano viene aparte de los cambios climaticos que nuestra socidad estan generado. La concepción de los individuales sobre sus usos de energía y produccion de {$$}CO_2{/$$} y {$$}CH_4{/$$} estan bastante eronios porque un la dia no miran estos valores completos. 
+
+Como mencionado antes, la mayoridad de consumo de nuestra sociadad no esta en la casa ni carro, mientras esta en los processos industriales y comerciales que nos da los servicios que usamos diariamente. Este esta combinado con el hecho que {$$}CO_2{/$$} ni {$$}CH_4{/$$} son visibles ni tiene olor, entonces su producción esta invisible. 
+
 ##EEUU
 
+Hasta el principio de siglo XXI el Estados Unidos de America estaba el consumidor principal de energía del mundo, y entonces tambien el productor principal de los gases efectos invernadero. En el 2010 China paso el EEUU en consumo de energia, mientras cada ciudadeno del EEUU se consumo el equivalente de trece Chinos.  
+
+En diez años el EEUU hay incrementado su uso de energias renovables por tres cientos percento. 
+
 ##Mexico
+
+2005 fue de 191,3 TWh
+59% de electricidad generada con gas
+19% con carbón
+10% con petróleo
+7% hidroeléctrica
+3% a partir de energías nuevas y renovables
 
 ##Baja California y Ensenada
