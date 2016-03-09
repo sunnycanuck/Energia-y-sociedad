@@ -1,10 +1,10 @@
-#Lectura 11: Distribución de energía
+#Lectura 11: Distribución de potencía
 
 ##Formas de transmitir potencia
 
 Es comon que los recursos de potencia estan lejos de sus usos y el hablidad a transmitir la potencia se incrementa su valor. 
 
-Usos de potencia incluye el undustria, con tornos, fresadoras, taladros, cortadoras, maquinas de coser, telares de potencia, molinas, transportacion etc...
+Usos de potencia incluye el industria, con tornos, fresadoras, taladros, cortadoras, maquinas de coser, telares de potencia, molinas, transportacion etc...
 
 Cuando el uso de potencia es movil una almacen de potencia esta necesario.
 
@@ -21,6 +21,8 @@ Ejemplos seria los Husillos, transmissiones mecanicas, tornillos sin fin y Husil
 Sistemas hidraulicas 
 
 ###Productos químicos y combustibles 
+
+Gas
 
 ##Transmission de potencia electrico
 
