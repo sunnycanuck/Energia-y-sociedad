@@ -10,4 +10,5 @@ Lectura9.txt
 Lectura10.txt
 Lectura11.txt
 Lectura12.txt
+Lectura13.txt
 cheatsheet.txt

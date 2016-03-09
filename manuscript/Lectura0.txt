@@ -1,0 +1,23 @@
+#Lectura 0
+
+| Lectura | Fecha presentado | temas | Tareas |
+|---------------------------------------------|
+| 1 | 11 enero 2016 | Motivaciones, markdown |  - |
+| 2 | 18 enero 2016 | Energía Cinetica y Potencial | Lagrange y energía obscura  |
+| 3 | 20 enero 2016 | Texto, unidades de energía |  Tonne de AC |
+| 4 | 21 enero 2016 | Orden de magnitud, cantidades fisicas | Consumo energetico global y de Mexico, solar para mexico |
+| 5 | 25 enero 2016 | IUPAC y termodinamica | -  |
+| 6 | 27 enero 2016 | Expansión isotérmico adiabatico, Ley de termodinamica | -  |
+| 7 | 8 feb. 2016  | Transporte de calor | taza de cafe |
+| 8 | 10 feb. 2016 | Conducción de calor | - |
+| 9 | 11 feb. 2016 | Generación de calor, Consumo en sociedad | - |
+| 10 | 15 feb. 2016 | Energía classica y neoclasica | masa del arbol |
+| 11 | 17 feb. 2016 | Siglo XX | - |
+| 12 | 18 feb. 2016 | Arboles y petrolio | - |
+| 13 | 22 feb. 2016 | Agua Dulce | Agua usado en Petrolio, NG, sociedad, y fuentes de agua |
+| 14 | 24 feb. 2016 | L/kWh | - |
+| 15 | 25 feb. 2016 | Consumo por persona | - |
+| 16 | 29 feb. 2016 | Distribución de Potencia | Motores y bombas |
+| 17 | 2 marzo 2016 | Distribucion de Potencía | Con gasolina y NG, con electricidad CD y AC, niveles de voltage |
+| 18 | 3 marzo 2016 | Tarifa Mexico y balenceo de cargas | - |
+| 19 | 7 marzo 2016 | Energias Alternas y los 90's | - |
