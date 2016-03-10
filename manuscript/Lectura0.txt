@@ -21,3 +21,13 @@
 | 17 | 2 marzo 2016 | Distribucion de Potencía | Con gasolina y NG, con electricidad CD y AC, niveles de voltage |
 | 18 | 3 marzo 2016 | Tarifa Mexico y balenceo de cargas | - |
 | 19 | 7 marzo 2016 | Energias Alternas y los 90's | - |
+| 20 | 10 marzo 2016 | Aspectos sol |  |
+| 21 | 14 marzo 2016 | Geometría esférico |  |
+| 22 | 16 marzo 2016 | Solar termico |  |
+| 23 | 17 marzo 2016 | Fotovoltaico |  |
+| 24 | 28 marzo 2016 | Eolico |  |
+| 25 | 30 marzo 2016 | Eolico |  |
+| 26 | 31 marzo 2016 | Biocombustibles |  |
+| 27 | 4 abril 2016 | Biocombustible |  |
+| 28 | 6 abril 2016 | Energía del mar |  |
+| 29 | 7 abril 2016 | Energía del mar |  |
